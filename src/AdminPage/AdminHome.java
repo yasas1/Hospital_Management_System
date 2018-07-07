@@ -386,7 +386,7 @@ public class AdminHome extends javax.swing.JFrame {
         x.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_AdminTreatmentActionPerformed
-
+ /*
     private void AdminPaymentActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_AdminPaymentActionPerformed
         PaymentWindow x = new PaymentWindow();
         x.setVisible(true);
@@ -410,7 +410,7 @@ public class AdminHome extends javax.swing.JFrame {
         x.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_AdminWard1ActionPerformed
-
+*/
     /**
      * @param args the command line arguments
      */

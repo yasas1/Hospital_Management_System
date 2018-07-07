@@ -386,31 +386,31 @@ public class AdminHome extends javax.swing.JFrame {
         x.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_AdminTreatmentActionPerformed
- /*
+ 
     private void AdminPaymentActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_AdminPaymentActionPerformed
-        PaymentWindow x = new PaymentWindow();
-        x.setVisible(true);
-        this.dispose();
+        //PaymentWindow x = new PaymentWindow();
+        //x.setVisible(true);
+        //this.dispose();
     }//GEN-LAST:event_AdminPaymentActionPerformed
 
     private void AdminAttendanceActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_AdminAttendanceActionPerformed
-        AttendanceWindow x = new AttendanceWindow();
-        x.setVisible(true);
-        this.dispose();
+       // AttendanceWindow x = new AttendanceWindow();
+       // x.setVisible(true);
+       //this.dispose();
     }//GEN-LAST:event_AdminAttendanceActionPerformed
 
     private void AdminPatient1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_AdminPatient1ActionPerformed
-        DischargedPatient x = new DischargedPatient();
-        x.setVisible(true);
-        this.dispose();
+      // DischargedPatient x = new DischargedPatient();
+        //.setVisible(true);
+        //this.dispose();
     }//GEN-LAST:event_AdminPatient1ActionPerformed
 
     private void AdminWard1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_AdminWard1ActionPerformed
-        PatientWindows x = new PatientWindows();
-        x.setVisible(true);
-        this.dispose();
+        //PatientWindows x = new PatientWindows();
+        //x.setVisible(true);
+        //this.dispose();
     }//GEN-LAST:event_AdminWard1ActionPerformed
-*/
+
     /**
      * @param args the command line arguments
      */

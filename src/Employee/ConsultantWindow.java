@@ -584,9 +584,9 @@ public class ConsultantWindow extends javax.swing.JFrame {
         cspec.setText("");
         cexp.setText("");
     }//GEN-LAST:event_ClearActionPerformed
-/*
+
     private void DeleteConsultantActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_DeleteConsultantActionPerformed
-        if(!eid.getText().equalsIgnoreCase("")){
+       /* if(!eid.getText().equalsIgnoreCase("")){
             
             int empid = Integer.parseInt(eid.getText());
 
@@ -606,9 +606,9 @@ public class ConsultantWindow extends javax.swing.JFrame {
             cexp.setText("");
         }
         else
-           JOptionPane.showMessageDialog(null,"There is no ID to delete");
+           JOptionPane.showMessageDialog(null,"There is no ID to delete"); */
     }//GEN-LAST:event_DeleteConsultantActionPerformed
-*/
+
     /**
      * @param args the command line arguments
      */
